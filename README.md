@@ -11,7 +11,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yehuda-huri/)
-[![Ateret Yosef](https://img.shields.io/badge/Ateret_Yosef-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ateretyosef.org/he/)
+[![Ateret Yosef](https://img.shields.io/badge/Ateret_Yosef-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ateretyosef.org/)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~udah1)
 
 </div>
@@ -31,7 +31,7 @@ B.Sc. in Software Engineering, Ben-Gurion University of the Negev.
 
 ## Products
 
-### [Ateret Yosef — Digital Synagogue Board](https://ateretyosef.org/he/)
+### [Ateret Yosef — Digital Synagogue Board](https://ateretyosef.org/)
 
 A free, full-stack digital-signage platform for synagogues, built end-to-end: an Android TV
 display app, a Gabbai mobile management app, and a worshipper-facing mobile view. Location-precise
@@ -53,7 +53,7 @@ TypeScript · Redux Toolkit · Vite · Node.js · TailwindCSS · WebSockets · i
 
 ### Cursor & editor tooling
 
-A suite of open-source tools for working with the Cursor AI editor (and VS Code) — squeezing more
+A suite of open-source tools for working with the Cursor AI editor — squeezing more
 out of AI agents, keeping costs down, and making the editor pleasant in any language.
 
 | Project | What it does |
