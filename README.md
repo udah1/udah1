@@ -17,6 +17,8 @@
 
 </div>
 
+<br/>
+
 <img src="assets/sep-about.svg" width="100%" alt="About" />
 
 Senior Full Stack Developer & System Designer at **Amdocs**, leading complex backend and frontend
@@ -26,9 +28,13 @@ multiply other people's productivity. I also ship full products end-to-end on my
 
 B.Sc. in Software Engineering, Ben-Gurion University of the Negev.
 
+<br/>
+
 <img src="assets/sep-tech-stack.svg" width="100%" alt="Tech stack" />
 
 <img src="https://skillicons.dev/icons?i=java,spring,react,redux,ts,js,nodejs,tailwind,html,css&theme=dark" alt="Tech stack" />
+
+<br/>
 
 <img src="assets/sep-products.svg" width="100%" alt="Products" />
 
@@ -43,6 +49,8 @@ astronomical engine for daily zmanim, multiple rites, offline-first, and real-ti
 
 A directory platform I built for sharing developer tools, extensions, MCPs, rules, and skills —
 browse by type, submit your own, and review. Auth, filtering, and ratings included.
+
+<br/>
 
 <img src="assets/sep-open-source.svg" width="100%" alt="Open source" />
 
