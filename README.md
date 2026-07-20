@@ -45,7 +45,7 @@ display app, a Gabbai mobile management app, and a worshipper-facing mobile view
 astronomical engine for daily zmanim, multiple rites, offline-first, and real-time "Red Alert"
 (Home Front Command) integration. 100% free, non-profit.
 
-### [DevToolsHub — Developer Tools Directory](https://devtoolshub-udah1.vercel.app/)
+### [DevToolsHub — Developer Tools Directory](https://toolshub.udah.dev/)
 
 A directory platform I built for sharing developer tools, extensions, MCPs, rules, and skills —
 browse by type, submit your own, and review. Auth, filtering, and ratings included.
