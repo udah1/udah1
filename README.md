@@ -17,7 +17,7 @@
 
 </div>
 
-<img src="assets/sep-about.png" width="100%" alt="About" />
+<img src="assets/sep-about.svg" width="100%" alt="About" />
 
 Senior Full Stack Developer & System Designer at **Amdocs**, leading complex backend and frontend
 efforts with an eye for scalability and usability. I enjoy understanding how things work under the
@@ -26,11 +26,11 @@ multiply other people's productivity. I also ship full products end-to-end on my
 
 B.Sc. in Software Engineering, Ben-Gurion University of the Negev.
 
-<img src="assets/sep-tech-stack.png" width="100%" alt="Tech stack" />
+<img src="assets/sep-tech-stack.svg" width="100%" alt="Tech stack" />
 
 <img src="https://skillicons.dev/icons?i=java,spring,react,redux,ts,js,nodejs,tailwind,html,css&theme=dark" alt="Tech stack" />
 
-<img src="assets/sep-products.png" width="100%" alt="Products" />
+<img src="assets/sep-products.svg" width="100%" alt="Products" />
 
 ### [Ateret Yosef — Digital Synagogue Board](https://ateretyosef.org/)
 
@@ -44,7 +44,7 @@ astronomical engine for daily zmanim, multiple rites, offline-first, and real-ti
 A directory platform I built for sharing developer tools, extensions, MCPs, rules, and skills —
 browse by type, submit your own, and review. Auth, filtering, and ratings included.
 
-<img src="assets/sep-open-source.png" width="100%" alt="Open source" />
+<img src="assets/sep-open-source.svg" width="100%" alt="Open source" />
 
 ### [Harmony 2.0 — React/Redux Boilerplate & CLI](https://github.com/Amdocs-Studio/harmony-2.0) &nbsp;·&nbsp; [npm](https://www.npmjs.com/package/harmony2)
 
