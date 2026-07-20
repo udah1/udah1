@@ -38,18 +38,6 @@ display app, a Gabbai mobile management app, and a worshipper-facing mobile view
 astronomical engine for daily zmanim, multiple rites, offline-first, and real-time "Red Alert"
 (Home Front Command) integration. 100% free, non-profit.
 
-### [LOOZ — Trip Planning + Personal Group App](https://trip-landing-omega.vercel.app/)
-
-A service that plans your trip and ships your group a personal app: day-by-day itinerary,
-restaurants, shared expense tracking with automatic debt settlement, real-time alerts, and an
-AI travel agent that knows your whole trip. Installable PWA, works offline, Hebrew-first.
-
-### [Ishurit — Event RSVP over SMS & WhatsApp](https://rsvp-saas.vercel.app/)
-
-An RSVP SaaS for weddings and events — send personalized invites by SMS/WhatsApp, collect
-confirmations, and track a live dashboard with seating plans. Multilingual (Hebrew / English /
-Russian), installable PWA.
-
 ### [DevToolsHub — Developer Tools Directory](https://devtoolshub-udah1.vercel.app/)
 
 A directory platform I built for sharing developer tools, extensions, MCPs, rules, and skills —
