@@ -1,16 +1,12 @@
 <!--
-  GitHub Profile README for github.com/udah1
+  GitHub Profile README for github.com/udah1  (Variant B: terminal)
   Lives in the PUBLIC repo named "udah1" as README.md.
-  Design: Swiss / minimal, monochrome + blue accent (#18181B -> #2563EB).
-  Only reliable services used: capsule-render, shields.io, skillicons.dev.
+  Header is a self-hosted PNG (assets/header-terminal.png) — no external services.
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:2563EB&height=200&section=header&text=Yehuda%20Huri&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Full%20Stack%20Engineer%20%C2%B7%20System%20Designer%20%C2%B7%2015%2B%20years%20%40%20Amdocs&descAlignY=60&descSize=18" width="100%" alt="Yehuda Huri" />
-
-Java / Spring on the back, React / Redux / TypeScript on the front —<br/>
-with a soft spot for building developer tools that make everyone else faster.
+<img src="assets/header-terminal.png" width="100%" alt="Yehuda Huri — Senior Full Stack Engineer @ Amdocs. Stack: Java, Spring, React, Redux, TypeScript, Node.js. Tools: cursor-chat-bridge, cursor-usage-mcp, rtl-for-cursor, ateret-yosef." />
 
 <br/>
 
@@ -29,18 +25,9 @@ multiply other people's productivity. I also ship full products end-to-end on my
 
 B.Sc. in Software Engineering, Ben-Gurion University of the Negev.
 
-<p>
-<img src="https://img.shields.io/badge/Full--Stack-18181B?style=flat-square" alt="Full-Stack" />
-<img src="https://img.shields.io/badge/System_Design-18181B?style=flat-square" alt="System Design" />
-<img src="https://img.shields.io/badge/Developer_Tooling-18181B?style=flat-square" alt="Developer Tooling" />
-<img src="https://img.shields.io/badge/Open_Source-2563EB?style=flat-square" alt="Open Source" />
-</p>
-
 ## Tech stack
 
-<a href="#tech-stack">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,redux,ts,js,nodejs,tailwind,html,css&theme=dark" alt="Tech stack" />
-</a>
+<img src="https://skillicons.dev/icons?i=java,spring,react,redux,ts,js,nodejs,tailwind,html,css&theme=dark" alt="Tech stack" />
 
 ## Featured products
 
@@ -82,7 +69,5 @@ out of AI agents, keeping costs down, and making the editor pleasant in any lang
 <br/>
 
 <sub>Always learning. Always building. Always aiming to make the next version better than the last.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:18181B&height=120&section=footer" width="100%" alt="" />
 
 </div>
