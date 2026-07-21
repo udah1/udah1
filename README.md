@@ -45,6 +45,12 @@ display app, a Gabbai mobile management app, and a worshipper-facing mobile view
 astronomical engine for daily zmanim, multiple rites, offline-first, and real-time "Red Alert"
 (Home Front Command) integration. 100% free, non-profit.
 
+### [Screening Room — Movie & TV Sharing with Friends](https://movies.udah.dev)
+
+A mobile-first PWA where friends open shared "rooms," add movies and series (auto-enriched
+from TMDB/OMDB), and rate and track them — the group sees an aggregated "friends rating" plus
+watched / interested status, with comments, invites, and push notifications. English / Hebrew RTL.
+
 ### [DevToolsHub — Developer Tools Directory](https://toolshub.udah.dev/)
 
 A directory platform I built for sharing developer tools, extensions, MCPs, rules, and skills —
